@@ -993,6 +993,11 @@ footer span+span {
 
 	h1 span {
 		display: inline;
+		font-weight: 300;
+        font-family: 'Cabin Sketch', sans-serif;
+        font-size: 36px;
+        color: #d7ffee;
+        text-shadow: 1px 1px 4px #31ff98;
 	}
 
 	h1 sup {
