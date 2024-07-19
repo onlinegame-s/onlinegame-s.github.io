@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://onlinegame-s.github.io/sitemap.xml
